@@ -1,6 +1,6 @@
 ## Hi, I'm Abishan 👋
 
-I am computer science student at McMaster University. I am interested in software and machine learning
+I am a Computer Science student at McMaster University. I'm interested in software development and machine learning.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,spring,java,js,html,css,postgres,mysql,php,py,sklearn,selenium)](https://skillicons.dev)
