@@ -29,8 +29,8 @@ I am a Computer Science student at McMaster University. I'm interested in softwa
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 
-## Lets Connect!
-🔗 LinkedIn: [abishanB](https://www.linkedin.com/in/abishan-bhavan/)
+## Let's Connect!
+🔗 LinkedIn: [abishanB](https://www.linkedin.com/in/abishanb/)
 
 🌐 Website: [abishanbhavan.ca](https://abishan-bhavan.vercel.app/)
 
