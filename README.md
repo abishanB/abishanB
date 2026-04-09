@@ -32,6 +32,6 @@ I am a Computer Science student at McMaster University. I'm interested in softwa
 ## Lets Connect!
 🔗 LinkedIn: [abishanB](https://www.linkedin.com/in/abishan-bhavan/)
 
-🌐 Website: [abishanbhavan.ca](https://abishanbhavan.ca/)
+🌐 Website: [abishanbhavan.ca](https://abishan-bhavan.vercel.app/)
 
 📧 Gmail: [abishan.bhavan@gmail.com](mailto:abishan.bhavan@gmail.com)
